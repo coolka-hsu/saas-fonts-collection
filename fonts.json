@@ -2,73 +2,73 @@
   {
     "name": "台北黑體 (標準內文)",
     "id": "TaipeiSans",
-    "file": "fonts/TaipeiSansTCBeta-Regular.woff2",
+    "file": "https://cdn.jsdelivr.net/gh/coolka-hsu/saas-fonts-collection@main/fonts/TaipeiSansTCBeta-Regular.woff2",
     "category": "sans-serif"
   },
   {
     "name": "粉圓體 (可愛/行銷)",
     "id": "OpenHuninn",
-    "file": "fonts/jf-openhuninn-2.1.woff2",
+    "file": "https://cdn.jsdelivr.net/gh/coolka-hsu/saas-fonts-collection@main/fonts/jf-openhuninn-2.1.woff2",
     "category": "sans-serif"
   },
   {
     "name": "源雲明體 (文學質感)",
     "id": "GenWanMin",
-    "file": "fonts/GenWanMin2TW-R.woff2",
+    "file": "https://cdn.jsdelivr.net/gh/coolka-hsu/saas-fonts-collection@main/fonts/GenWanMin2TW-R.woff2",
     "category": "serif"
   },
   {
     "name": "源石黑體 (復古標題)",
     "id": "GenSekiGothic",
-    "file": "fonts/GenSekiGothic2TW-R.woff2",
+    "file": "https://cdn.jsdelivr.net/gh/coolka-hsu/saas-fonts-collection@main/fonts/GenSekiGothic2TW-R.woff2",
     "category": "sans-serif"
   },
   {
     "name": "芫荽體 (硬筆手寫)",
     "id": "Iansui",
-    "file": "fonts/iansui-Regular.woff2",
+    "file": "https://cdn.jsdelivr.net/gh/coolka-hsu/saas-fonts-collection@main/fonts/iansui-Regular.woff2",
     "category": "handwriting"
   },
   {
     "name": "獅尾黑體 (強烈視覺)",
     "id": "SweiGothic",
-    "file": "fonts/SweiGothicCJKtc-Regular.woff2",
+    "file": "https://cdn.jsdelivr.net/gh/coolka-hsu/saas-fonts-collection@main/fonts/SweiGothicCJKtc-Regular.woff2",
     "category": "sans-serif"
   },
   {
     "name": "獅尾四季春 (尖角標題)",
     "id": "SweiSpring",
-    "file": "fonts/SweiSpringCJKtc-Regular.woff2",
+    "file": "https://cdn.jsdelivr.net/gh/coolka-hsu/saas-fonts-collection@main/fonts/SweiSpringCJKtc-Regular.woff2",
     "category": "serif"
   },
   {
     "name": "獅尾四季春-糖 (圓潤標題)",
     "id": "SweiSpringSugar",
-    "file": "fonts/SweiSpringSugarCJKtc-Regular.woff2",
+    "file": "https://cdn.jsdelivr.net/gh/coolka-hsu/saas-fonts-collection@main/fonts/SweiSpringSugarCJKtc-Regular.woff2",
     "category": "serif"
   },
   {
     "name": "內海字體 (麥克筆風)",
     "id": "Naikai",
-    "file": "fonts/NaikaiFont-Regular.woff2",
+    "file": "https://cdn.jsdelivr.net/gh/coolka-hsu/saas-fonts-collection@main/fonts/NaikaiFont-Regular.woff2",
     "category": "handwriting"
   },
   {
     "name": "莫大毛筆體 (書法揮毫)",
     "id": "Bakudai",
-    "file": "fonts/Bakudai-Regular.woff2",
+    "file": "https://cdn.jsdelivr.net/gh/coolka-hsu/saas-fonts-collection@main/fonts/Bakudai-Regular.woff2",
     "category": "handwriting"
   },
   {
     "name": "悠哉字體 (輕鬆隨筆)",
     "id": "Yozai",
-    "file": "fonts/Yozai-Regular.woff2",
+    "file": "https://cdn.jsdelivr.net/gh/coolka-hsu/saas-fonts-collection@main/fonts/Yozai-Regular.woff2",
     "category": "handwriting"
   },
   {
     "name": "一點明體 (傳統古籍)",
     "id": "IMing",
-    "file": "fonts/I.MingCP-8.10.woff2",
+    "file": "https://cdn.jsdelivr.net/gh/coolka-hsu/saas-fonts-collection@main/fonts/I.MingCP-8.10.woff2",
     "category": "serif"
   }
 ]
